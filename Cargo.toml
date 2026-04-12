@@ -2,3 +2,7 @@
 name = "flux-dream-cycle"
 version = "0.1.0"
 edition = "2021"
+description = "Background task scheduler with priority queue — the subconscious of an agent"
+
+[dependencies]
+rand = "0.8"
